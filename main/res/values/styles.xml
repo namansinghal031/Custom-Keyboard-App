@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="KeyboardStyle">
+        <item name="android:keyBackground">@drawable/key_background</item>
+        <item name="android:keyTextSize">18sp</item>
+        <item name="android:keyTextColor">@color/key_text</item>
+        <item name="android:shadowColor">@color/key_shadow</item>
+        <item name="android:shadowRadius">1.5</item>
+
+    </style>
+
+</resources>
