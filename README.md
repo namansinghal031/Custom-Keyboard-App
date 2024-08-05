@@ -2,7 +2,8 @@
 Custom Keyboard APK is a mobile keyboard application similar to Google Keyboard. This project aims to provide an intuitive and customizable typing experience for users on Android devices.
 
 # Installation:-
-To install the 'Custom Keyboard APK' on your Android device, follow these steps:<br>
+
+To install the [Custom Keyboard APK](https://github.com/namansinghal031/Modern-Keyboard-App/releases/download/untagged-22ba3544e7649e3673a4/custom_keybored.apk) on your Android device, follow these steps:<br>
 -> Download the custom_keybored.apk file from the releases page.<br>
 -> Transfer the APK file to your Android device.<br>
 -> Open the file manager on your device and navigate to the location where you saved the APK file.<br>
